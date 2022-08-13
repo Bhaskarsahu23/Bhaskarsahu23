@@ -1,4 +1,4 @@
-<h1>Hi 🙏, I'm Bhaskar Sahu</h1>
+![image](https://github.com/Bhaskarsahu23/Bhaskarsahu23/blob/main/HI!_I_am_Bhaskar_Sahu.png)
 <h3> 🏅 I’m currently learning Full Stack Development<h3>
 
 - 🏅 I’m looking to work on **Front-End projects**
