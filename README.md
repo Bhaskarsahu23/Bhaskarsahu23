@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Front-End projects**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with  **Javascript**
 
-- 💬 Ask me anything about **Javascript, CSS, HTML*
+- 💬 Ask me anything about  *Javascript, CSS, HTML*
 
 - 📝 I regularly write articles on Hashnode [developandchill.hashnode.dev](https://developandchill.hashnode.dev/)
 
