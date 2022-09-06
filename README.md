@@ -43,6 +43,5 @@
 <p align="left">
 <a href="https://twitter.com/bhaskar23_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaskar23_98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhaskar-sahu-975948212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-sahu-975948212" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bhaskar2398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bhaskar2398" height="30" width="40" /></a>
 </p>
 
